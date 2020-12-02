@@ -1,0 +1,28 @@
+body {
+    background-color: slategray;
+ }
+
+ p.honk {
+     color: rebeccapurple;
+ }
+
+ #penguin {
+     font-size: 25px;
+ }
+
+ img {
+    margin-top: 25px;
+    margin-bottom: 5px;
+    margin-right: 37px;
+    margin-left: 20px;
+  }
+
+  div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    border: 5px outset #c7b8a1;
+    background-color: #afc3f0;
+    width: 500px;
+  }
